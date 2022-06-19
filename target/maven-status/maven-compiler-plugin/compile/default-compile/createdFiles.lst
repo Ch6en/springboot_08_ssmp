@@ -1,0 +1,11 @@
+com\chen\config\MPConfig.class
+com\chen\SSMPApplication.class
+com\chen\controller\utils\Result.class
+com\chen\service\BookService.class
+com\chen\controller\BookController.class
+com\chen\domain\Book.class
+com\chen\service\IBookService.class
+com\chen\dao\BookDao.class
+com\chen\controller\utils\RestExceptionAdvice.class
+com\chen\service\impl\BookServiceImpl2.class
+com\chen\service\impl\BookServiceImpl.class
